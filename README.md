@@ -1,0 +1,2 @@
+# GameServer
+DotNet Core GameServer.
